@@ -1,0 +1,10 @@
+#Ignora la carpeta de node
+node_modules
+
+
+#Ignora los archivos txt
+*.txt
+
+#Ignora archivos relacionados con API
+.env
+
